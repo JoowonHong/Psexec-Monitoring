@@ -20,6 +20,7 @@ from plotly.validators.scatter.marker import SymbolsrcValidator
 
 #주원의 다시 도전 버전
 # 깃허브에서 
+# vscode 에서
 # PSExex Path
 psexec_path = r'"C:\Windows\System32\PsExec.exe"'
 
