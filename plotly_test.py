@@ -24,7 +24,7 @@ import os
 feature_names =["IP","Timestamp","GPU","GPU_Memory","Encoder","Decoder"]
 df2 = pd.DataFrame(columns=feature_names) 
 
-path = r'.\Data\2023-03-30'
+path = r'.\Data\2023-03-29'
 
 os.chdir(path)
 for i in glob.glob('*csv'):
