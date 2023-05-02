@@ -82,8 +82,8 @@ for df in IP_LIST:
    fig.update_layout(title=f'Usage of GPU_all')
 
 
-   fig.show()
-   fig = px.line(df2 ,x ='Timestamp' , y = 'CUDA'
-                    , hover_data= ['Encoder',"Decoder"]
-                    ,title="GPU_DATA" )
-   fig.show()
+   # fig.show()
+   # fig = px.line(df2 ,x ='Timestamp' , y = 'CUDA'
+   #                  , hover_data= ['Encoder',"Decoder"]
+   #                  ,title="GPU_DATA" )
+   # fig.show()

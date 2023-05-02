@@ -18,7 +18,7 @@ import plotly.figure_factory as ff
 from plotly.subplots import make_subplots
 from plotly.validators.scatter.marker import SymbolsrcValidator
 
-
+#주원의 다시 도전 버전
 # PSExex Path
 psexec_path = r'"C:\Windows\System32\PsExec.exe"'
 
